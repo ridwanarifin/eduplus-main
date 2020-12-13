@@ -1,6 +1,11 @@
 {
   "name": "vue-edu-plus",
-  "version": "1.0.0",
+  "version": "0.3.0",
+  "author": "ridwan <ridwanarifin@pm.me>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridwanarifin/scl-dashboard.git"
+  },
   "private": true,
   "scripts": {
     "dev": "nuxt",
