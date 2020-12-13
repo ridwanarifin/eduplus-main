@@ -41,7 +41,6 @@ export default {
   plugins: [
     '@/plugins/vee-validate',
     '@/plugins/vue-awesome-swiper',
-    // '@/plugins/vuex-persist.client',
     '@/plugins/vue-autosuggest'
   ],
 
